@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Data (Sensitive and Large)
+Data/
+Data_Backup/
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Jupyter files
+.ipynb_checkpoints/
+*.ipynb_checkpoints
