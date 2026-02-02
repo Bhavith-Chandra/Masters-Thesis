@@ -1,14 +1,14 @@
-# Masters Thesis: Behavioral Causal Discovery & ML Reasoning Atlas
+# Masters Thesis: Behavioral Causal Discovery & ML Reasoning 
 
 This repository contains the systematic derivation of a Directed Acyclic Graph (DAG) for behavioral health using the GLOBEM dataset, followed by an advanced multi-model structural reasoning extraction.
 
 ---
 
-## 🔹 Phase 1: Behavioral Causal Thesis Atlas
+## 🔹 Part 1: Behavioral Causal Thesis Atlas
 - **[Behavioral Causal Thesis Atlas.ipynb](notebooks/Behavioral%20Causal%20Thesis%20Atlas.ipynb)**: documents the 8-phase discovery process from 11,040 raw features to a verified high-granularity structural model.
 - **[Executed Atlas](notebooks/Behavioral_Causal_Thesis_Atlas_Executed.ipynb)**: Pre-rendered version with all plots.
 
-## 🔹 Phase 2: ML Reasoning Extraction & Comparison
+## 🔹 Part 2: ML Reasoning Extraction & Comparison
 - **[ML Reasoning Extraction & Comparison.ipynb](notebooks/ML%20Reasoning%20Extraction%20&%20Comparison.ipynb)**: Advanced probing (SHAP, Stability Selection) to extract reasoning DAGs from LR, RF, SVM, and KNN.
 - **[Executed Reasoning Atlas](notebooks/ML_Reasoning_Extraction_Advanced_Executed.ipynb)**: Detailed quantitative comparison and structural analysis.
 
