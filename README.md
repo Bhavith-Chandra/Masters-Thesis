@@ -4,11 +4,16 @@ This repository contains the systematic derivation of a Directed Acyclic Graph (
 
 ---
 
-## 🔹 Part 1: Behavioral Causal Thesis Atlas
+## 📖 Meeting Briefing & Research Narrative
+**[THESIS_JOURNEY.md](THESIS_JOURNEY.md)**: A comprehensive, step-by-step narrative of the entire project—from raw sensor auditing to advanced ML structural comparison. Use this for the 1-hour in-depth meeting with your supervisor.
+
+---
+
+## 🔹 Phase 1: Behavioral Causal Thesis Atlas
 - **[Behavioral Causal Thesis Atlas.ipynb](notebooks/Behavioral%20Causal%20Thesis%20Atlas.ipynb)**: documents the 8-phase discovery process from 11,040 raw features to a verified high-granularity structural model.
 - **[Executed Atlas](notebooks/Behavioral_Causal_Thesis_Atlas_Executed.ipynb)**: Pre-rendered version with all plots.
 
-## 🔹 Part 2: ML Reasoning Extraction & Comparison
+## 🔹 Phase 2: ML Reasoning Extraction & Comparison
 - **[ML Reasoning Extraction & Comparison.ipynb](notebooks/ML%20Reasoning%20Extraction%20&%20Comparison.ipynb)**: Advanced probing (SHAP, Stability Selection) to extract reasoning DAGs from LR, RF, SVM, and KNN.
 - **[Executed Reasoning Atlas](notebooks/ML_Reasoning_Extraction_Advanced_Executed.ipynb)**: Detailed quantitative comparison and structural analysis.
 
