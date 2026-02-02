@@ -1,4 +1,4 @@
-# Masters Thesis: Behavioral Causal Discovery Atlas
+# Thesis: Behavioral Causal Discovery 
 
 This repository contains the systematic derivation of a Directed Acyclic Graph (DAG) for behavioral health using the GLOBEM dataset.
 
@@ -12,5 +12,5 @@ This repository contains the systematic derivation of a Directed Acyclic Graph (
 - **Protocol Adherence**: 5-line-per-cell discipline with deep scientific interpretation.
 
 ## Research Team
-- **Researcher**: [Srimanarayana]
+- **Researcher**: Bhavith Chandra
 - **Project**: Masters Thesis on Causal Behavioral Discovery
